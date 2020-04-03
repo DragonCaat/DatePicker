@@ -14,7 +14,7 @@ allprojects {
 Step 2. Add the dependency  
 
 	dependencies {
-	        implementation 'com.github.DragonCaat:DatePicker:Tag'
+	        implementation 'com.github.DragonCaat:DatePicker:v1.0.1'
 	}
 
 
